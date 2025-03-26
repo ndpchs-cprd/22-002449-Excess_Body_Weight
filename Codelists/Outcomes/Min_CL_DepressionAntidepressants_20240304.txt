@@ -1,0 +1,262 @@
+	ProdCodeId	Term	Depression_antidepressants
+0	5077041000033116	Agomelatine 25mg tablets	Depression_antidepressants
+1	259241000033111	Citalopram 20mg tablets	Depression_antidepressants
+2	1583341000033118	Citalopram 10mg tablets	Depression_antidepressants
+3	1583141000033116	Citalopram 40mg tablets	Depression_antidepressants
+4	2749541000033116	Escitalopram 10mg tablets	Depression_antidepressants
+5	2951341000033116	Escitalopram 20mg tablets	Depression_antidepressants
+6	3030341000033110	Escitalopram 5mg tablets	Depression_antidepressants
+7	1900641000033112	Citalopram 40mg/ml oral drops sugar free	Depression_antidepressants
+8	5128541000033119	Escitalopram 20mg/ml oral drops sugar free	Depression_antidepressants
+9	3928841000033110	Escitalopram 10mg/ml oral drops sugar free	Depression_antidepressants
+10	3226741000033119	Duloxetine 60mg gastro-resistant capsules	Depression_antidepressants
+11	3226641000033111	Duloxetine 30mg gastro-resistant capsules	Depression_antidepressants
+12	3177641000033112	Duloxetine 20mg gastro-resistant capsules	Depression_antidepressants
+13	3177741000033115	Duloxetine 40mg gastro-resistant capsules	Depression_antidepressants
+14	577841000033114	Fluoxetine 20mg capsules	Depression_antidepressants
+15	2770641000033114	Fluoxetine 20mg/5ml oral solution	Depression_antidepressants
+16	579041000033111	Fluoxetine 60mg capsules	Depression_antidepressants
+17	11603841000033119	Fluoxetine 10mg capsules	Depression_antidepressants
+18	11707541000033118	Fluoxetine 40mg capsules	Depression_antidepressants
+19	5749441000033115	Fluoxetine 20mg/5ml oral solution sugar free	Depression_antidepressants
+20	9120641000033112	Fluoxetine 20mg dispersible tablets sugar free	Depression_antidepressants
+21	6496341000033116	Fluoxetine 10mg tablets	Depression_antidepressants
+22	11707441000033119	Fluoxetine 30mg capsules	Depression_antidepressants
+23	592541000033118	Fluoxetine Hydrochloride Liquid 20 mg/5 ml	Depression_antidepressants
+24	592841000033116	Fluvoxamine 100mg tablets	Depression_antidepressants
+25	595541000033113	Fluvoxamine 50mg tablets	Depression_antidepressants
+26	1454741000033115	Trimipramine 50mg capsules	Depression_antidepressants
+27	1471441000033110	Trimipramine 25mg tablets	Depression_antidepressants
+28	1471341000033116	Trimipramine 10mg tablets	Depression_antidepressants
+29	787141000033110	Isocarboxazid 10mg tablets	Depression_antidepressants
+30	850141000033116	Lofepramine 70mg tablets	Depression_antidepressants
+31	849241000033115	Lofepramine 70mg/5ml oral suspension sugar free	Depression_antidepressants
+32	5996741000033119	Lofepramine 70mg/5ml oral suspension	Depression_antidepressants
+33	5996641000033111	Lofepramine 70mg/5ml oral solution	Depression_antidepressants
+34	917741000033119	Mianserin 30mg tablets	Depression_antidepressants
+35	917541000033110	Mianserin 10mg tablets	Depression_antidepressants
+36	917641000033111	Mianserin 20mg tablets	Depression_antidepressants
+37	919641000033115	Mirtazapine 30mg tablets	Depression_antidepressants
+38	3256741000033118	Mirtazapine 15mg tablets	Depression_antidepressants
+39	3256841000033111	Mirtazapine 45mg tablets	Depression_antidepressants
+40	3029641000033112	Mirtazapine 15mg orodispersible tablets	Depression_antidepressants
+41	3029741000033115	Mirtazapine 45mg orodispersible tablets	Depression_antidepressants
+42	2974841000033114	Mirtazapine 30mg orodispersible tablets	Depression_antidepressants
+43	3058741000033113	Mirtazapine 15mg/ml oral solution sugar free	Depression_antidepressants
+44	937241000033118	Moclobemide 150mg tablets	Depression_antidepressants
+45	937841000033119	Moclobemide 300mg tablets	Depression_antidepressants
+46	1040841000033112	Parnate Tablets 10 mg	Depression_antidepressants
+47	1042141000033117	Paroxetine 20mg tablets	Depression_antidepressants
+48	1042241000033112	Paroxetine 30mg tablets	Depression_antidepressants
+49	4079041000033115	Paroxetine 10mg tablets	Depression_antidepressants
+50	1662441000033114	Paroxetine 10mg/5ml oral suspension sugar free	Depression_antidepressants
+51	11755441000033119	Paroxetine 40mg tablets	Depression_antidepressants
+52	1079341000033111	Phenelzine 15mg tablets	Depression_antidepressants
+53	1165641000033115	Reboxetine 4mg tablets	Depression_antidepressants
+54	1278841000033119	Sertraline 50mg tablets	Depression_antidepressants
+55	1278741000033112	Sertraline 100mg tablets	Depression_antidepressants
+56	4148341000033116	Sertraline 50mg/5ml oral suspension	Depression_antidepressants
+57	5975341000033119	Sertraline 100mg/5ml oral suspension	Depression_antidepressants
+58	12900941000033117	Sertraline 25mg/5ml oral suspension	Depression_antidepressants
+59	1469441000033116	Tranylcypromine 10mg tablets	Depression_antidepressants
+60	1509341000033117	Venlafaxine 75mg modified-release capsules	Depression_antidepressants
+61	1509241000033110	Venlafaxine 150mg modified-release capsules	Depression_antidepressants
+62	1512241000033119	Venlafaxine 37.5mg tablets	Depression_antidepressants
+63	1512341000033112	Venlafaxine 75mg tablets	Depression_antidepressants
+64	4823641000033111	Venlafaxine 150mg modified-release tablets	Depression_antidepressants
+65	4823541000033110	Venlafaxine 75mg modified-release tablets	Depression_antidepressants
+66	5052741000033119	Venlafaxine 225mg modified-release tablets	Depression_antidepressants
+67	6161741000033111	Venlafaxine 37.5mg modified-release tablets	Depression_antidepressants
+68	8885441000033118	Venlafaxine 37.5mg modified-release capsules	Depression_antidepressants
+69	10730041000033110	Venlafaxine 225mg modified-release capsules	Depression_antidepressants
+70	1512441000033118	Venlafaxine 50mg tablets	Depression_antidepressants
+71	13318341000033119	Venlafaxine 300mg modified-release tablets	Depression_antidepressants
+72	5008041000033112	Venlafaxine 75mg/5ml oral solution	Depression_antidepressants
+73	4498541000033116	Venlafaxine 37.5mg/5ml oral suspension	Depression_antidepressants
+74	6000441000033115	Venlafaxine 37.5mg/5ml oral solution	Depression_antidepressants
+75	8867941000033118	Venlafaxine 75mg/5ml oral suspension	Depression_antidepressants
+76	13318441000033113	Venlalic XL 300mg tablets (Ethypharm UK Ltd)	Depression_antidepressants
+77	10617041000033113	Vortioxetine 10mg tablets	Depression_antidepressants
+78	10617141000033112	Vortioxetine 20mg tablets	Depression_antidepressants
+79	10616941000033112	Vortioxetine 5mg tablets	Depression_antidepressants
+80	5813341000033119	Alventa XL 75mg capsules (Consilient Health Ltd)	Depression_antidepressants
+81	5813141000033117	Alventa XL 150mg capsules (Consilient Health Ltd)	Depression_antidepressants
+82	9300841000033114	Amphero XL 150mg capsules (Mylan)	Depression_antidepressants
+83	9300741000033116	Amphero XL 75mg capsules (Mylan)	Depression_antidepressants
+84	2749641000033115	Cipralex 10mg tablets (Lundbeck Ltd)	Depression_antidepressants
+85	2951441000033110	Cipralex 20mg tablets (Lundbeck Ltd)	Depression_antidepressants
+86	3030541000033115	Cipralex 5mg tablets (Lundbeck Ltd)	Depression_antidepressants
+87	5128641000033118	Cipralex 20mg/ml oral drops (Lundbeck Ltd)	Depression_antidepressants
+88	3928941000033119	Cipralex 10mg/ml oral drops (Lundbeck Ltd)	Depression_antidepressants
+89	259141000033116	Cipramil 20mg tablets (Lundbeck Ltd)	Depression_antidepressants
+90	1583241000033111	Cipramil 10mg tablets (Lundbeck Ltd)	Depression_antidepressants
+91	1583041000033115	Cipramil 40mg tablets (Lundbeck Ltd)	Depression_antidepressants
+92	1900741000033115	Cipramil 40mg/ml drops (Lundbeck Ltd)	Depression_antidepressants
+93	3226941000033116	Cymbalta 60mg gastro-resistant capsules (Eli Lilly and Company Ltd)	Depression_antidepressants
+94	3226841000033112	Cymbalta 30mg gastro-resistant capsules (Eli Lilly and Company Ltd)	Depression_antidepressants
+95	5896341000033112	Depefex XL 75mg capsules (Chiesi Ltd)	Depression_antidepressants
+96	5896441000033118	Depefex XL 150mg capsules (Chiesi Ltd)	Depression_antidepressants
+97	496741000033118	Edronax 4mg tablets (Pfizer Ltd)	Depression_antidepressants
+98	498441000033112	Efexor XL 75mg capsules (Upjohn UK Ltd)	Depression_antidepressants
+99	498541000033113	Efexor XL 150mg capsules (Upjohn UK Ltd)	Depression_antidepressants
+100	499041000033111	Efexor 37.5mg tablets (Wyeth Pharmaceuticals)	Depression_antidepressants
+101	499141000033110	Efexor 75mg tablets (Wyeth Pharmaceuticals)	Depression_antidepressants
+102	10730141000033114	Efexor XL 225mg capsules (Upjohn UK Ltd)	Depression_antidepressants
+103	499241000033115	Efexor 50mg tablets (Wyeth Pharmaceuticals)	Depression_antidepressants
+104	563341000033115	Faverin 50mg tablets (Mylan)	Depression_antidepressants
+105	561941000033115	Faverin 100mg tablets (Mylan)	Depression_antidepressants
+106	13740541000033117	Fluoxetine 10mg tablets (Imported)	Depression_antidepressants
+107	13740641000033116	Fluoxetine 30mg capsules (Imported)	Depression_antidepressants
+108	5234041000033119	Foraven XL 75mg capsules (Forum Products Ltd)	Depression_antidepressants
+109	5234141000033115	Foraven XL 150mg capsules (Forum Products Ltd)	Depression_antidepressants
+110	868841000033115	Manerix 150mg tablets (Mylan)	Depression_antidepressants
+111	868941000033111	Manerix 300mg tablets (Mylan)	Depression_antidepressants
+112	955241000033110	Nardil 15mg tablets (Neon Healthcare Ltd)	Depression_antidepressants
+113	4957841000033111	Politid XL 75mg capsules (Accord Healthcare Ltd)	Depression_antidepressants
+114	4957941000033115	Politid XL 150mg capsules (Accord Healthcare Ltd)	Depression_antidepressants
+115	1278341000033111	Seroxat 20mg tablets (GlaxoSmithKline UK Ltd)	Depression_antidepressants
+116	1278441000033117	Seroxat 30mg tablets (GlaxoSmithKline UK Ltd)	Depression_antidepressants
+117	4079141000033116	Seroxat 10mg tablets (GlaxoSmithKline UK Ltd)	Depression_antidepressants
+118	1686141000033119	Seroxat 20mg/10ml liquid (GlaxoSmithKline UK Ltd)	Depression_antidepressants
+119	13743641000033113	Sertraline 25mg tablets	Depression_antidepressants
+120	8298741000033112	Sunveniz XL 75mg tablets (Sun Pharmaceutical Industries Europe B.V.)	Depression_antidepressants
+121	8298641000033115	Sunveniz XL 150mg tablets (Sun Pharmaceutical Industries Europe B.V.)	Depression_antidepressants
+122	1389441000033112	Surmontil 50mg capsules (Sanofi)	Depression_antidepressants
+123	1396841000033119	Surmontil 25mg tablets (Sanofi)	Depression_antidepressants
+124	1396741000033112	Surmontil 10mg tablets (Sanofi)	Depression_antidepressants
+125	5574741000033114	Tonpular XL 150mg capsules (Wockhardt UK Ltd)	Depression_antidepressants
+126	5574641000033117	Tonpular XL 75mg capsules (Wockhardt UK Ltd)	Depression_antidepressants
+127	4936641000033111	Venaxx XL 75mg capsules (Advanz Pharma)	Depression_antidepressants
+128	4936741000033119	Venaxx XL 150mg capsules (Advanz Pharma)	Depression_antidepressants
+129	12194641000033117	Vencarm XL 225mg capsules (Aspire Pharma Ltd)	Depression_antidepressants
+130	12194841000033116	Vencarm XL 75mg capsules (Aspire Pharma Ltd)	Depression_antidepressants
+131	12194541000033118	Vencarm XL 150mg capsules (Aspire Pharma Ltd)	Depression_antidepressants
+132	12194741000033114	Vencarm XL 37.5mg capsules (Aspire Pharma Ltd)	Depression_antidepressants
+133	5812641000033119	Venlablue XL 150mg capsules (Zentiva Pharma UK Ltd)	Depression_antidepressants
+134	5812541000033115	Venlablue XL 75mg capsules (Zentiva Pharma UK Ltd)	Depression_antidepressants
+135	8885541000033117	Venlablue XL 37.5mg capsules (Zentiva Pharma UK Ltd)	Depression_antidepressants
+136	5053041000033114	Venlalic XL 75mg tablets (Ethypharm UK Ltd)	Depression_antidepressants
+137	5052941000033116	Venlalic XL 150mg tablets (Ethypharm UK Ltd)	Depression_antidepressants
+138	5052841000033112	Venlalic XL 225mg tablets (Ethypharm UK Ltd)	Depression_antidepressants
+139	6161841000033118	Venlalic XL 37.5mg tablets (Ethypharm UK Ltd)	Depression_antidepressants
+140	4823741000033119	ViePax XL 75mg tablets (Dexcel-Pharma Ltd)	Depression_antidepressants
+141	4823841000033112	ViePax XL 150mg tablets (Dexcel-Pharma Ltd)	Depression_antidepressants
+142	4896941000033117	ViePax 75mg tablets (Dexcel-Pharma Ltd)	Depression_antidepressants
+143	4897041000033116	ViePax 37.5mg tablets (Dexcel-Pharma Ltd)	Depression_antidepressants
+144	1558041000033118	Zispin 30mg tablets (Organon Laboratories Ltd)	Depression_antidepressants
+145	3078541000033115	Zispin SolTab 30mg orodispersible tablets (Organon Pharma (UK) Ltd)	Depression_antidepressants
+146	3029941000033117	Zispin SolTab 45mg orodispersible tablets (Organon Pharma (UK) Ltd)	Depression_antidepressants
+147	3029841000033113	Zispin SolTab 15mg orodispersible tablets (Organon Pharma (UK) Ltd)	Depression_antidepressants
+148	9120741000033115	Olena 20mg dispersible tablets (Advanz Pharma)	Depression_antidepressants
+149	10617341000033110	Brintellix 10mg tablets (Lundbeck Ltd)	Depression_antidepressants
+150	10617241000033117	Brintellix 5mg tablets (Lundbeck Ltd)	Depression_antidepressants
+151	10617441000033116	Brintellix 20mg tablets (Lundbeck Ltd)	Depression_antidepressants
+152	13898641000033112	Duloxetine 90mg gastro-resistant capsules	Depression_antidepressants
+153	13898741000033115	Duloxetine 120mg gastro-resistant capsules	Depression_antidepressants
+154	754241000033115	Imipramine 25mg tablets	Depression_antidepressants
+155	755541000033119	Imipramine 10mg tablets	Depression_antidepressants
+156	754141000033110	Imipramine Hydrochloride Syrup 25 mg/5 ml	Depression_antidepressants
+157	5328741000033117	Imipramine 25mg/5ml oral solution	Depression_antidepressants
+158	5454141000033118	Imipramine 25mg/5ml oral solution sugar free	Depression_antidepressants
+159	2078841000033114	Lomont 70mg/5ml oral suspension (Rosemont Pharmaceuticals Ltd)	Depression_antidepressants
+160	854241000033118	Lustral 50mg tablets (Upjohn UK Ltd)	Depression_antidepressants
+161	854141000033113	Lustral 100mg tablets (Upjohn UK Ltd)	Depression_antidepressants
+162	12901241000033119	Majoven XL 150mg capsules (Bristol Laboratories Ltd)	Depression_antidepressants
+163	12901141000033114	Majoven XL 75mg capsules (Bristol Laboratories Ltd)	Depression_antidepressants
+164	2602041000033119	Oxactin 20mg capsules (Discovery Pharmaceuticals)	Depression_antidepressants
+165	13719241000033117	Phenelzine 15mg capsules	Depression_antidepressants
+166	13747541000033116	Phenelzine 15mg capsules (Special Order)	Depression_antidepressants
+167	13747441000033117	Phenelzine 15mg capsules (Imported)	Depression_antidepressants
+168	1112441000033114	Prozac 20mg capsules (Eli Lilly and Company Ltd)	Depression_antidepressants
+169	1129541000033110	Prozac 20mg/5ml liquid (Eli Lilly and Company Ltd)	Depression_antidepressants
+170	1111941000033111	Prozac 60mg capsules (Eli Lilly and Company Ltd)	Depression_antidepressants
+171	4498641000033115	Prozep 20mg/5ml oral solution (Chemidex Pharma Ltd)	Depression_antidepressants
+172	5077141000033117	Valdoxan 25mg tablets (Servier Laboratories Ltd)	Depression_antidepressants
+173	13916241000033115	Venlafaxine 37.5mg/5ml oral solution sugar free	Depression_antidepressants
+174	13916341000033113	Venlafaxine 75mg/5ml oral solution sugar free	Depression_antidepressants
+175	12605541000033116	Venladex XL 225mg tablets (Dexcel-Pharma Ltd)	Depression_antidepressants
+176	12605341000033111	Venladex XL 75mg tablets (Dexcel-Pharma Ltd)	Depression_antidepressants
+177	12605441000033117	Venladex XL 150mg tablets (Dexcel-Pharma Ltd)	Depression_antidepressants
+178	4899641000033119	Vensir XL 150mg capsules (Morningside Healthcare Ltd)	Depression_antidepressants
+179	4899541000033115	Vensir XL 75mg capsules (Morningside Healthcare Ltd)	Depression_antidepressants
+180	11693641000033117	Vensir XL 225mg capsules (Morningside Healthcare Ltd)	Depression_antidepressants
+181	4817641000033111	Tifaxin XL 150mg capsules (Genus Pharmaceuticals Ltd)	Depression_antidepressants
+182	4817741000033119	Tifaxin XL 75mg capsules (Genus Pharmaceuticals Ltd)	Depression_antidepressants
+183	2215541000033118	Feprapax 70mg tablets (Ashbourne Pharmaceuticals Ltd)	Depression_antidepressants
+184	4824641000033113	Winfex XL 75mg capsules (Zentiva Pharma UK Ltd)	Depression_antidepressants
+185	12882641000033117	Esketamine 25mg/5ml solution for injection ampoules	Depression_antidepressants
+186	12476041000033112	Depalta 60mg gastro-resistant capsules  	Depression_antidepressants
+187	12475941000033119	Depalta 30mg gastro-resistant capsules  	Depression_antidepressants
+188	10701941000033111	Duciltia 60mg gastro-resistant capsules  	Depression_antidepressants
+189	10701841000033115	Duciltia 30mg gastro-resistant capsules  	Depression_antidepressants
+190	12989441000033115	Dutor 30mg gastro-resistant capsules  	Depression_antidepressants
+191	8265641000033113	Bonilux XL 150mg capsules  	Depression_antidepressants
+192	8265541000033112	Bonilux XL 75mg capsules  	Depression_antidepressants
+193	12901241000033119	Majoven XL 150mg capsules  	Depression_antidepressants
+194	12901141000033114	Majoven XL 75mg capsules  	Depression_antidepressants
+195	5889641000033110	Mentaven XL 150mg capsules  	Depression_antidepressants
+196	5329041000033111	Ranfaxine XL 150mg capsules  	Depression_antidepressants
+197	5328941000033119	Ranfaxine XL 75mg capsules  	Depression_antidepressants
+198	4817441000033114	Rodomel XL 75mg capsules  	Depression_antidepressants
+199	4817341000033115	Rodomel XL 150mg capsules  	Depression_antidepressants
+200	4897141000033117	Tardcaps XL 75mg capsules  	Depression_antidepressants
+201	4897241000033112	Tardcaps XL 150mg capsules  	Depression_antidepressants
+202	4937141000033116	Vaxalin XL 150mg capsules  	Depression_antidepressants
+203	4937041000033115	Vaxalin XL 75mg capsules  	Depression_antidepressants
+204	5053041000033114	Venlalic XL 75mg tablets  	Depression_antidepressants
+205	5052941000033116	Venlalic XL 150mg tablets  	Depression_antidepressants
+206	5052841000033112	Venlalic XL 225mg tablets  	Depression_antidepressants
+207	6161841000033118	Venlalic XL 37.5mg tablets  	Depression_antidepressants
+208	13318441000033113	Venlalic XL 300mg tablets  	Depression_antidepressants
+209	6029641000033116	Venlaneo XL 150mg capsules  	Depression_antidepressants
+210	6029741000033113	Venlaneo XL 75mg capsules  	Depression_antidepressants
+211	12390341000033114	Venlasov XL 150mg capsules  	Depression_antidepressants
+212	12389941000033119	Venlasov XL 75mg capsules  	Depression_antidepressants
+213	12641541000033113	Venzip XL 150mg capsules  	Depression_antidepressants
+214	12641641000033114	Venzip XL 75mg capsules  	Depression_antidepressants
+215	4896841000033113	Vexarin XL 75mg capsules  	Depression_antidepressants
+216	4896741000033115	Vexarin XL 150mg capsules  	Depression_antidepressants
+217	4823741000033119	ViePax XL 75mg tablets  	Depression_antidepressants
+218	4823841000033112	ViePax XL 150mg tablets  	Depression_antidepressants
+219	4896941000033117	ViePax 75mg tablets   	Depression_antidepressants
+220	4897041000033116	ViePax 37.5mg tablets   	Depression_antidepressants
+221	4824641000033113	Winfex XL 75mg capsules  	Depression_antidepressants
+222	3199841000033111	Paxoran Tablets 10 mg   	Depression_antidepressants
+223	1923141000033118	Felicium 20mg capsules   	Depression_antidepressants
+224	1112441000033114	Prozac 20mg capsules   	Depression_antidepressants
+225	1129541000033110	Prozac 20mg/5ml liquid   	Depression_antidepressants
+226	1111941000033111	Prozac 60mg capsules   	Depression_antidepressants
+227	2770541000033113	Prozit 20mg/5ml oral solution  	Depression_antidepressants
+228	2710441000033119	Ranflutin 20mg capsules   	Depression_antidepressants
+229	1278341000033111	Seroxat 20mg tablets   	Depression_antidepressants
+230	1278441000033117	Seroxat 30mg tablets   	Depression_antidepressants
+231	4079141000033116	Seroxat 10mg tablets   	Depression_antidepressants
+232	1686141000033119	Seroxat 20mg/10ml liquid   	Depression_antidepressants
+233	774341000033110	Iprindole Tablets 15 mg   	Depression_antidepressants
+234	774441000033116	Iprindole Tablets 30 mg   	Depression_antidepressants
+235	1138541000033117	Prondol Tablets 15 mg   	Depression_antidepressants
+236	1138641000033116	Prondol Tablets 30 mg   	Depression_antidepressants
+237	626241000033115	Gamanil 70mg tablets   	Depression_antidepressants
+238	60941000033114	Amoxapine 50mg tablets   	Depression_antidepressants
+239	61041000033116	Amoxapine 100mg tablets   	Depression_antidepressants
+240	60841000033118	Amoxapine Tablets 25 mg   	Depression_antidepressants
+241	61141000033117	Amoxapine Tablets 150 mg   	Depression_antidepressants
+242	87941000033111	Asendis 50mg tablets   	Depression_antidepressants
+243	87841000033115	Asendis Tablets 25 mg   	Depression_antidepressants
+244	87641000033116	Asendis 100mg tablets   	Depression_antidepressants
+245	87741000033113	Asendis Tablets 150 mg   	Depression_antidepressants
+246	853741000033114	Ludiomil 75mg tablets   	Depression_antidepressants
+247	853541000033118	Ludiomil 25mg tablets   	Depression_antidepressants
+248	853641000033117	Ludiomil 50mg tablets   	Depression_antidepressants
+249	853441000033119	Ludiomil 10mg tablets   	Depression_antidepressants
+250	870741000033119	Maprotiline 25mg tablets   	Depression_antidepressants
+251	870941000033116	Maprotiline 75mg tablets   	Depression_antidepressants
+252	870841000033112	Maprotiline 50mg tablets   	Depression_antidepressants
+253	870441000033114	Maprotiline 10mg tablets   	Depression_antidepressants
+254	155741000033118	Bolvidon Tablets 30 mg   	Depression_antidepressants
+255	155541000033114	Bolvidon Tablets 10 mg   	Depression_antidepressants
+256	155641000033110	Bolvidon Tablets 20 mg   	Depression_antidepressants
+257	1558041000033118	Zispin 30mg tablets   	Depression_antidepressants
+258	3078541000033115	Zispin SolTab 30mg   	Depression_antidepressants
+259	3029941000033117	Zispin SolTab 45mg   	Depression_antidepressants
+260	3029841000033113	Zispin SolTab 15mg   	Depression_antidepressants
