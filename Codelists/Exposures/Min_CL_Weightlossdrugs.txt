@@ -1,0 +1,7 @@
+	ProdCodeId	Term from EMIS	weight_loss_drugs
+0	a1661741000033113	Orlistat 120mg capsules	weight_loss_drugs
+1	a6111241000033116	Orlistat 60mg capsules	weight_loss_drugs
+2	a12332141000033117	Mysimba 8mg/90mg modified-release tablets (Orexigen Therapeutics Ireland Ltd)	weight_loss_drugs
+3	a11919041000033113	Saxenda 6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd)	weight_loss_drugs
+4	a2584041000033118	Sibutramine	weight_loss_drugs
+5	a2584141000033119	Sibutramine	weight_loss_drugs
