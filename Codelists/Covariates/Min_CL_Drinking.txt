@@ -1,0 +1,294 @@
+	MedCodeId	Observations	Term	alcohol_category
+0	a397729013	3000000	Trivial drinker - <1u/day	trivial_drinker
+1	a4120351000006119	4000	Does not drink alcohol	non_drinker
+2	a217461000000118	700000	Non - drinker	non_drinker
+3	a587231000006111	500000	Non drinker alcohol	non_drinker
+4	a291352018	300000	Non-drinker alcohol	non_drinker
+5	a291355016	6000000	Teetotaller	non_drinker
+6	a4977931000006114	20	Lifetime teetotaller	non_drinker
+7	a4977911000006115	3000	Lifetime non-drinker	non_drinker
+8	a13628811000006110	1000	Lifetime non-drinker of alcohol	non_drinker
+9	a4120341000006116	500	Never drinks	non_drinker
+10	a4120371000006112	300	Non - drinker alcohol	non_drinker
+11	a250313014	1000000	Moderate drinker - 3-6u/day	moderate_drinker
+12	a73012011	30000	Moderate drinker	moderate_drinker
+13	a250312016	2000000	Light drinker - 1-2u/day	light_drinker
+14	a629811000006113	1000000	Occasional drinker	light_drinker
+15	a250340014	1000000	Alcohol intake within recommended sensible limits	light_drinker
+16	a629821000006117	800000	Drinks rarely	light_drinker
+17	a47085011	400000	Social drinker	light_drinker
+18	a342320016	70000	Light drinker	light_drinker
+19	a502017010	800000	Alcohol problem drinking	heavy_drinker
+20	a250335018	200000	Alcohol intake above recommended sensible limits	heavy_drinker
+21	a12878014	200000	Alcoholism	heavy_drinker
+22	a250314015	200000	Heavy drinker - 7-9u/day	heavy_drinker
+23	a299061000000117	100000	Hazardous alcohol use	heavy_drinker
+24	a250316018	90000	Very heavy drinker - >9u/day	heavy_drinker
+25	a299081000000114	70000	Harmful alcohol use	heavy_drinker
+26	a110629012	60000	Chronic alcoholism	heavy_drinker
+27	a295136019	50000	Alcohol dependence	heavy_drinker
+28	a606991000000117	50000	Alcohol misuse	heavy_drinker
+29	a342366014	40000	Binge drinker	heavy_drinker
+30	a144179014	20000	Heavy drinker	heavy_drinker
+31	a295139014	9000	Continuous chronic alcoholism	heavy_drinker
+32	a295143013	6000	Chronic alcoholism NOS	heavy_drinker
+33	a342322012	5000	Very heavy drinker	heavy_drinker
+34	a117761000006116	4000	Denies alcohol abuse	heavy_drinker
+35	a295141010	4000	Episodic chronic alcoholism	heavy_drinker
+36	a342421016	2000	Feels should cut down drinking	heavy_drinker
+37	a295126010	500	Alcohol dependence with acute alcoholic intoxication	heavy_drinker
+38	a295130013	500	Episodic acute alcoholic intoxication in alcoholism	heavy_drinker
+39	a295129015	200	Continuous acute alcoholic intoxication in alcoholism	heavy_drinker
+40	a4978481000006118	80	Alcoholic binges exceeding safe amounts	heavy_drinker
+41	a4978471000006116	60	Alcoholic binges exceeding sensible amounts	heavy_drinker
+42	a502016018	40	Dipsomania	heavy_drinker
+43	a500478011	1000000	Alcohol dependence syndrome	heavy_drinker
+44	a1680121000006110	800000	Brief intervention for excessive alcohol consumption completed	heavy_drinker
+45	a283028013	100000	Alcohol leaflet given	heavy_drinker
+46	a236441000000113	100000	Alcohol misuse enhanced services administration	heavy_drinker
+47	a13929361000006112	100000	Alcohol detoxification	heavy_drinker
+48	a401797010	100000	Nondependent alcohol abuse	heavy_drinker
+49	a295144019	100000	Alcohol dependence syndrome NOS	heavy_drinker
+50	a1484890014	80000	Referral to community alcohol team	heavy_drinker
+51	a303399018	80000	Alcoholic liver damage	heavy_drinker
+52	a294674018	80000	Alcohol withdrawal syndrome	heavy_drinker
+53	a226571000000116	70000	Alcohol misuse enhanced service completed	heavy_drinker
+54	a106878015	50000	Alcohol detoxification	heavy_drinker
+55	a1680131000006113	50000	Extended intervention for excessive alcohol consumption completed	heavy_drinker
+56	a2532939017	50000	Alcohol consumption counselling	heavy_drinker
+57	a2549646014	50000	Referral to community drug and alcohol team	heavy_drinker
+58	a295251015	40000	"Nondependent alcohol abuse, unspecified"	heavy_drinker
+59	a83834016	40000	Alcoholic fatty liver	heavy_drinker
+60	a362251000006117	30000	Alcohol intoxication	heavy_drinker
+61	a622961000000116	30000	Referral to specialist alcohol treatment service	heavy_drinker
+62	a4525015	30000	Alcoholic gastritis	heavy_drinker
+63	a461112017	20000	Alcoholism counselling	heavy_drinker
+64	a315091000000117	20000	Alcohol withdrawal-induced seizure	heavy_drinker
+65	a1704281000006117	20000	Brief intervention for excessive alcohol consumption declined	heavy_drinker
+66	a353587018	20000	Alcoholic hepatitis	heavy_drinker
+67	a216585018	20000	Under care of community alcohol team	heavy_drinker
+68	a295765017	10000	Alcohol-induced organic mental disorder	heavy_drinker
+69	a362921000006118	10000	[X]Alcohol addiction	heavy_drinker
+70	a2367071000000110	10000	Alcohol Use Disorders Identification Test declined	heavy_drinker
+71	a961571000006111	10000	Excessive use of alcohol	heavy_drinker
+72	a397881000006114	10000	Alcohol abuse	heavy_drinker
+73	a6947461000006115	10000	Alcoholic cirrhosis	heavy_drinker
+74	a17390014	10000	Acute alcoholic hepatitis	heavy_drinker
+75	a138527014	10000	Alcoholic cardiomyopathy	heavy_drinker
+76	a295127018	10000	Acute alcoholic intoxication in alcoholism	heavy_drinker
+77	a750531000000113	10000	Declined referral to specialist alcohol treatment service	heavy_drinker
+78	a283559019	10000	Admitted to alcohol detoxification centre	heavy_drinker
+79	a854651000006117	10000	Alcohol overdose	heavy_drinker
+80	a353698013	10000	Alcohol-induced chronic pancreatitis	heavy_drinker
+81	a397801000006117	9000	[X]Mental and behav dis due to use alcohol: dependence syndr	heavy_drinker
+82	a1746481000000112	9000	Referral to community alcohol team declined	heavy_drinker
+83	a753331000006118	8000	Korsakov alcoholic psychosis	heavy_drinker
+84	a460926018	8000	[V]Alcohol rehabilitation	heavy_drinker
+85	a831091000006115	7000	Referral to alcohol abuse team	heavy_drinker
+86	a254305017	7000	O/E - breath - alcohol smell	heavy_drinker
+87	a1754191000006119	6000	Extended intervention for excessive alcohol consumption declined	heavy_drinker
+88	a346929012	6000	Alcoholic dementia	heavy_drinker
+89	a370971000006114	5000	[X]Chronic alcoholism	heavy_drinker
+90	a295255012	5000	Nondependent alcohol abuse NOS	heavy_drinker
+91	a14103017	5000	Alcohol-induced polyneuropathy	heavy_drinker
+92	a882531000006110	5000	Non-dependent abuse of alcohol	heavy_drinker
+93	a15243013	4000	Alcohol withdrawal delirium	heavy_drinker
+94	a295253017	4000	"Nondependent alcohol abuse, episodic"	heavy_drinker
+95	a831101000006114	4000	Referral to alcohol counsellor	heavy_drinker
+96	a476741000006111	4000	Alcohol-induced psychosis	heavy_drinker
+97	a740641000000115	4000	Referral to alcohol brief intervention service	heavy_drinker
+98	a500729017	4000	Alcohol causing toxic effect	heavy_drinker
+99	a297011014	3000	Alcoholic encephalopathy	heavy_drinker
+100	a294673012	3000	Other alcoholic psychosis	heavy_drinker
+101	a460276013	3000	[V]Personal history of alcoholism	heavy_drinker
+102	a295252010	3000	"Nondependent alcohol abuse, continuous"	heavy_drinker
+103	a669211000006118	3000	Fetal alcohol syndrome	heavy_drinker
+104	a254306016	3000	O/E - alcoholic breath	heavy_drinker
+105	a353595019	3000	Alcoholic hepatic failure	heavy_drinker
+106	a5981291000006110	3000	Alcohol withdrawal-induced convulsion	heavy_drinker
+107	a328760018	2000	Accidental poisoning by alcohol	heavy_drinker
+108	a362941000006113	2000	[X]Alcoholic dementia NOS	heavy_drinker
+109	a852381000006110	2000	Alcohol reduction-maintain abstinence	heavy_drinker
+110	a397611000006115	2000	[X]Mental & behav dis due to use alcohol: acute intoxication	heavy_drinker
+111	a886501000006115	2000	Alcoholic liver damage NOS	heavy_drinker
+112	a739501000000112	2000	Advised to contact primary care alcohol worker	heavy_drinker
+113	a328737014	2000	"Accidental poisoning by alcohol, NEC"	heavy_drinker
+114	a970391000006118	2000	Substance misuse of Alcohol	heavy_drinker
+115	a4978031000006111	2000	Problem drinker	heavy_drinker
+116	a353687012	2000	Alcohol-induced acute pancreatitis	heavy_drinker
+117	a353594015	2000	Alcoholic fibrosis and sclerosis of liver	heavy_drinker
+118	a478024019	2000	Alcohol-induced epilepsy	heavy_drinker
+119	a251195015	2000	Alcoholics anonymous	heavy_drinker
+120	a453265010	2000	Oesophageal varices in alcoholic cirrhosis of the liver	heavy_drinker
+121	a2534258017	2000	Alcohol counselling by other agencies	heavy_drinker
+122	a4533231000006117	1000	Very heavy drinker - greater than 9 units/day	heavy_drinker
+123	a2549849017	1000	Alcohol induced hallucinations	heavy_drinker
+124	a397431000006111	1000	[X]Ment & behav dis due use alcohol: unsp ment & behav dis	heavy_drinker
+125	a294669014	1000	Alcohol withdrawal hallucinosis	heavy_drinker
+126	a476701000006114	1000	Alcohol myopathy	heavy_drinker
+127	a2502971000006115	1000	Dementia associated with alcoholism	heavy_drinker
+128	a283451018	1000	Aversion therapy - alcoholism	heavy_drinker
+129	a478046010	1000	Cerebellar ataxia due to alcoholism	heavy_drinker
+130	a324489011	1000	Alcohol causing toxic effect NOS	heavy_drinker
+131	a401760017	1000	Other alcoholic dementia	heavy_drinker
+132	a1957791000006115	1000	Reduced alcohol intake	heavy_drinker
+133	a376451000006113	1000	"[X]Delirium tremens, alcohol induced"	heavy_drinker
+134	a940781000006116	1000	Evidence of alcohol withdrawal	heavy_drinker
+135	a3545831000006115	1000	Detoxication psychiatric therapy for alcoholism	heavy_drinker
+136	a970411000006118	1000	Misuse of Alcohol unspecified	heavy_drinker
+137	a362951000006110	1000	Alcoholic hallucinosis	heavy_drinker
+138	a362981000006119	900	[X]Alcoholic psychosis NOS	heavy_drinker
+139	a294668018	900	Chronic alcoholic brain syndrome	heavy_drinker
+140	a295128011	900	"Acute alcoholic intoxication, unspecified, in alcoholism"	heavy_drinker
+141	a397621000006111	900	Alcohol-induced psychosis	heavy_drinker
+142	a295254011	900	Nondependent alcohol abuse in remission	heavy_drinker
+143	a4533451000006113	900	Excessive alcohol consumption	heavy_drinker
+144	a451124014	800	Chronic alcoholic hepatitis	heavy_drinker
+145	a899411000006110	800	Toxic effects of alcohol	heavy_drinker
+146	a315571015	700	Fetal alcohol syndrome	heavy_drinker
+147	a2298341000000114	700	In-house alcohol detoxification	heavy_drinker
+148	a371501000000110	700	Delivery of rehabilitation for alcohol addiction	heavy_drinker
+149	a542611000006114	700	Cerebral degeneration due to alcoholism	heavy_drinker
+150	a2454281000000112	600	Hospital attendance related to personal alcohol consumption	heavy_drinker
+151	a1901211000006117	600	Addiction Research Foundation Clinical Institute Withdrawal Assessment for Alcohol	heavy_drinker
+152	a295132017	600	Acute alcoholic intoxication in alcoholism NOS	heavy_drinker
+153	a328738016	600	Accidental poisoning by alcoholic beverages	heavy_drinker
+154	a294676016	600	Alcoholic psychosis NOS	heavy_drinker
+155	a397811000006119	600	[X]Mental and behav dis due to use alcohol: withdrawal state	heavy_drinker
+156	a397791000006118	500	Alcohol amnestic disorder	heavy_drinker
+157	a476361000006114	500	Alcohol amnestic syndrome	heavy_drinker
+158	a2467301000000111	500	Alcohol relapse prevention	heavy_drinker
+159	a294671014	500	Pathological alcohol intoxication	heavy_drinker
+160	a294672019	500	Alcoholic paranoia	heavy_drinker
+161	a3073921000006112	400	Alcohol rehabilitation	heavy_drinker
+162	a4978581000006119	200	Alcohol binge	heavy_drinker
+163	a362971000006117	200	[X]Alcoholic paranoia	heavy_drinker
+164	a3315041000006111	200	Alcoholic steatosis	heavy_drinker
+165	a4533461000006110	200	Excessive alcohol use	heavy_drinker
+166	a4978571000006117	200	Drinking binge	heavy_drinker
+167	a900431000006118	200	Accident poisoning - alcohol	heavy_drinker
+168	a2475831000000114	100	Alcohol harm reduction programme	heavy_drinker
+169	a2462911000000112	100	Withdrawn from alcohol detoxification programme	heavy_drinker
+170	a2007461000006118	100	SRH care activity - alcohol brief intervention	heavy_drinker
+171	a1779661000006118	100	Alcohol detoxification declined	heavy_drinker
+172	a1973701000006119	100	"Mental and behav dis due to use alcohol: dependence syndr, currently abstinent"	heavy_drinker
+173	a1975461000006114	100	"Mental & behav dis due to use alcohol: psychotic disorder, mixed"	heavy_drinker
+174	a7264381000006117	100	Referral to specialist alcohol treatment service declined by patient	heavy_drinker
+175	a294664016	100	Alcohol amnestic syndrome NOS	heavy_drinker
+176	a6881361000006118	100	Suspected alcohol abuse	heavy_drinker
+177	a899431000006116	100	Alcohol NOS - toxic effect	heavy_drinker
+178	a356292013	100	Alcohol-induced pseudo-Cushing's syndrome	heavy_drinker
+179	a2740831000000114	90	Harmful use of alcohol	heavy_drinker
+180	a3165681000006118	90	Alcoholic liver disease	heavy_drinker
+181	a4977991000006113	90	Fairly heavy drinker	heavy_drinker
+182	a12456651000006117	80	[V]Alcohol rehabilitation	heavy_drinker
+183	a2533386015	80	Carer of a person with alcohol misuse	heavy_drinker
+184	a315575012	60	Fetus and newborn affected by maternal use of alcohol	heavy_drinker
+185	a1974191000006110	60	"Mental and behav dis due to use alcohol: withdrawal state, uncomplicated"	heavy_drinker
+186	a5827361000006119	60	Alcohol deterrent overdose	heavy_drinker
+187	a3846821000006114	60	Alcohol poisoning	heavy_drinker
+188	a2614651000006115	60	Alcoholism	heavy_drinker
+189	a6455201000006114	50	Substance use treatment: alcohol withdrawal	heavy_drinker
+190	a1806211000006115	50	Unsuccessful attempts to reduce alcohol consumption	heavy_drinker
+191	a5689771000006115	40	Persistent alcohol abuse	heavy_drinker
+192	a7710581000006113	40	Severe alcohol dependence	heavy_drinker
+193	a294675017	40	Other alcoholic psychosis NOS	heavy_drinker
+194	a6947471000006110	40	Alcoholic liver cirrhosis	heavy_drinker
+195	a8364771000006117	40	Injury following alcohol use	heavy_drinker
+196	a2658601000006116	40	Acute alcoholic liver disease	heavy_drinker
+197	a2626141000006112	30	Alcoholic polyneuropathy	heavy_drinker
+198	a2796011000006111	30	Alcohol intoxication delirium	heavy_drinker
+199	a362961000006112	30	[X]Alcoholic jealousy	heavy_drinker
+200	a1976071000006119	30	"Mental & behav dis due to use alcohol: resid & late-onset psychot dis, other persisting cognitive impairment"	heavy_drinker
+201	a7613321000006119	30	Alcohol reduction programme	heavy_drinker
+202	a6221531000006118	30	Alcoholic cerebellar degeneration	heavy_drinker
+203	a900461000006110	30	Accident poison - alcohol NOS	heavy_drinker
+204	a1972151000006110	30	"Mental & behav dis due to use alcohol: acute intoxication, uncomplicated"	heavy_drinker
+205	a970401000006116	30	Misuse of mixture of Alcohol	heavy_drinker
+206	a1974071000006113	30	"Mental and behav dis due to use alcohol: dependence syndr, currently using the substance [active dependence]"	heavy_drinker
+207	a2819381000006112	20	Alcohol rehabilitation and detoxification	heavy_drinker
+208	a13770661000006117	20	Referral to alcoholism rehabilitation service	heavy_drinker
+209	a3630171000006111	20	Alcoholic amnestic syndrome	heavy_drinker
+210	a328745016	20	Accidental poisoning by methyl alcohol	heavy_drinker
+211	a2911291000006114	20	Acute alcohol intoxication	heavy_drinker
+212	a306615012	20	Maternal care for (suspected) damage to fetus from alcohol	heavy_drinker
+213	a1974141000006118	20	"Mental and behav dis due to use alcohol: dependence syndr, episodic use [dipsomania]"	heavy_drinker
+214	a7309181000006113	20	Alcohol-induced pancreatitis	heavy_drinker
+215	a480271000000113	900	Disqualified from driving due to excess alcohol	heavy_drinker
+216	a882221000006114	200	Other alcoholic psychoses	heavy_drinker
+217	a507053019	1000	DTs - delirium tremens	heavy_drinker
+218	a15244019	3000	Delirium tremens	heavy_drinker
+219	a376451000006113	1000	"[X]Delirium tremens, alcohol induced"	heavy_drinker
+220	a753331000006118	8000	Korsakov alcoholic psychosis	heavy_drinker
+221	a501294012	3000	Wernicke-Korsakov syndrome	heavy_drinker
+222	a362941000006113	2000	[X]Alcoholic dementia NOS	heavy_drinker
+223	a294670010	300	Drunkenness - pathological	heavy_drinker
+224	a295131012	300	"Acute alcoholic intoxication in remission, in alcoholism"	heavy_drinker
+225	a1975461000006114	100	"Mental & behav dis due to use alcohol: psychotic disorder, mixed"	heavy_drinker
+226	a1975291000006117	20	"Mental & behav dis due to use alcohol: psychotic disorder, predominantly hallucinatory"	heavy_drinker
+227	a1975371000006110	3	"Mental & behav dis due to use alcohol: psychotic disorder, predominantly depressive symptoms"	heavy_drinker
+228	a1975141000006117	2	"Mental & behav dis due to use alcohol: psychotic disorder, schizophrenia-like"	heavy_drinker
+229	a1975181000006111	2	"Mental & behav dis due to use alcohol: psychotic disorder, predominantly delusional"	heavy_drinker
+230	a1975341000006119	1	"Mental & behav dis due to use alcohol: psychotic disorder, predominantly polymorphic"	heavy_drinker
+231	a1975411000006111	1	"Mental & behav dis due to use alcohol: psychotic disorder, predominantly manic symptoms"	heavy_drinker
+232	a362951000006110	1000	Alcoholic hallucinosis	heavy_drinker
+233	a294668018	900	Chronic alcoholic brain syndrome	heavy_drinker
+234	a370961000006119	400	[X]Chronic alcoholic brain syndrome	heavy_drinker
+235	a315091000000117	20000	Alcohol withdrawal-induced seizure	heavy_drinker
+236	a476611000006116	100000	Alcoholic cirrhosis of liver	heavy_drinker
+237	a886501000006115	2000	Alcoholic liver damage NOS	heavy_drinker
+238	a328740014	2	Accidental poisoning by denatured alcohol	heavy_drinker
+239	a5549981000006119	3	Drinking problem scale	heavy_drinker
+240	a250317010	400000	Stopped drinking alcohol	ex_drinker
+241	a250321015	10000	Ex-trivial drinker (<1u/day)	ex_drinker
+242	a250329018	8000	Ex-very heavy drinker-(>9u/d)	ex_drinker
+243	a250324011	7000	Ex-heavy drinker - (7-9u/day)	ex_drinker
+244	a250322010	6000	Ex-light drinker - (1-2u/day)	ex_drinker
+245	a295142015	5000	Chronic alcoholism in remission	ex_drinker
+246	a250323017	5000	Ex-moderate drinker - (3-6u/d)	ex_drinker
+247	a3843491000006118	1000	Ex-drinker	ex_drinker
+248	a4533271000006119	800	Ex-trivial drinker - less than 1 unit/day	ex_drinker
+249	a4533331000006113	100	Ex-very heavy drinker - greater than 9 units/day	ex_drinker
+250	a2358251000000115	300	Alcohol dependence resolved	ex_drinker
+251	a250318017	70000	Alcohol consumption unknown	current_unclear
+252	a2474678017	10000	Alcohol disorder monitoring	current_unclear
+253	a2998891000006117	10000	Drinking	current_unclear
+254	a852391000006113	10000	Not interested in reducing alcohol	current_unclear
+255	a405461000000114	10000	Alcohol abuse monitoring	current_unclear
+256	a2502081000006116	800	Drinks alcohol	current_unclear
+257	a3360071000006111	300	Alcohol	current_unclear
+258	a1221271018	60000000	Alcohol consumption	current_unclear
+259	a4533141000006118	1000000	Alcohol intake	current_unclear
+260	a556651000000116	1000000	Alcohol units consumed per week	current_unclear
+261	a476411000006118	700000	Alcohol consumption NOS	current_unclear
+262	a250332015	100000	Beer drinker	current_unclear
+263	a250334019	100000	Drinks wine	current_unclear
+264	a1738421000000111	60000	Lower risk drinking	current_unclear
+265	a250331010	40000	Spirit drinker	current_unclear
+266	a1738341000000110	10000	Increasing risk drinking	current_unclear
+267	a250333013	10000	Drinks beer and spirits	current_unclear
+268	a750721000000118	5000	Number of alcohol units consumed on heaviest drinking day	current_unclear
+269	a1738381000000119	3000	Higher risk drinking	current_unclear
+270	a342361016	70	Drinks in morning to get rid of hangover	current_unclear
+271	a769451000006111	100000	Intoxication - alcohol	current_unclear
+272	a451082013	20000	[V] Alcohol use	current_unclear
+273	a2502061000006114	20000	Current drinker	current_unclear
+274	a8458781000006110	10000	Alcohol units consumed per day	current_unclear
+275	a4987161000006113	8000	alcohol units/week	current_unclear
+276	a1724531000000116	6000	Advised to abstain from alcohol consumption	current_unclear
+277	a380031000006116	3000	[X]Evid of alcohol involv determind by level of intoxication	current_unclear
+278	a4987151000006111	1000	alcohol units/day	current_unclear
+279	a223671000000110	900	Hangover from alcohol	current_unclear
+280	a923621000006117	300	Health ed. - alcohol	current_unclear
+281	a4987141000006114	90	Alcohol units	current_unclear
+282	a6260461000006110	80	Frequency of drinking	current_unclear
+283	a459715013	70	Pain in lymph nodes after alcohol consumption	current_unclear
+284	a7334601000006116	50	Drinks alcoholic cider	current_unclear
+285	a5742061000006118	50	Finding of frequency of drinking	current_unclear
+286	a9344021000006112	30	Unhealthy alcohol drinking behaviour	current_unclear
+287	a4978431000006119	30	Weekend drinker	current_unclear
+288	a4978421000006117	20	Drinks alcohol unevenly through week	current_unclear
+289	a4978911000006116	20	Drink driving	current_unclear
+290	a4978511000006114	20	Habitual drinker	current_unclear
+291	a4978501000006111	20	Drinks alcohol daily	current_unclear
+292	a4978491000006115	20	Daily drinker	current_unclear
